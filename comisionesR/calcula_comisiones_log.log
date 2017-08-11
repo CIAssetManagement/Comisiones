@@ -1,0 +1,65 @@
+
+Attaching package: 'lubridate'
+
+The following object is masked from 'package:base':
+
+    date
+
+Warning message:
+package 'lubridate' was built under R version 3.3.3 
+
+Attaching package: 'plyr'
+
+The following object is masked from 'package:lubridate':
+
+    here
+
+Warning message:
+package 'plyr' was built under R version 3.3.3 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:plyr':
+
+    arrange, count, desc, failwith, id, mutate, rename, summarise,
+    summarize
+
+The following objects are masked from 'package:lubridate':
+
+    intersect, setdiff, union
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'dplyr' was built under R version 3.3.3 
+Warning message:
+package 'tidyr' was built under R version 3.3.3 
+Loading required package: zoo
+
+Attaching package: 'zoo'
+
+The following objects are masked from 'package:base':
+
+    as.Date, as.Date.numeric
+
+
+Attaching package: 'xts'
+
+The following objects are masked from 'package:dplyr':
+
+    first, last
+
+Warning messages:
+1: package 'xts' was built under R version 3.3.3 
+2: package 'zoo' was built under R version 3.3.3 
+Loading required package: rJava
+Loading required package: xlsxjars
+> proc.time()
+   user  system elapsed 
+  10.51    0.65    5.65 
